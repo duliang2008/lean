@@ -1,4 +1,3 @@
 entries = {
-  'lean': 'https://github.com/duliang2008/lean.git',
-  'build': 'https://github.com/duliang2008/lean.git',
+  'test': 'https://github.com/duliang2008/lean.git',
 }

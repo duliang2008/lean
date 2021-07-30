@@ -1,5 +1,8 @@
-executable("test") {
+# my first gn
+# test
+# hello world
+executable ("test") {
  sources = [
-	"test.c"
+    "test.c",
  ]
 }
